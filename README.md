@@ -1,0 +1,1 @@
+A Full Bridge Converter is a type of DC–DC switching converter used to convert a fixed DC input voltage into a controlled DC output voltage using high-frequency switching. It is mainly used in high-power and high-voltage applications.
